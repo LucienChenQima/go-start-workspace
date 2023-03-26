@@ -1,0 +1,13 @@
+go 1.20
+
+use (
+	./data-access
+	./example
+	./fetch_data
+	./fuzz
+	./generics
+	./gin
+	./hello
+	./mysql
+	./web-service-gin
+)
